@@ -1,0 +1,42 @@
+@media(max-width:770px){
+    .container{
+        max-width: 768px;
+        margin: 0 auto;
+        padding: 0 50px;
+    }
+
+    picture{
+        display: block;
+    }
+    /*header*/
+    .header__nav--list{
+        column-gap: 48px;
+    }
+    /*hero*/
+    .hero__desc{
+        width: 70vw;
+    }
+    /*about*/
+    .about__desc{
+        width: 100%;
+    }
+    /*gallery*/
+    .gallery__section{
+        height: 72vh;
+    }
+    .gallery__checkbox--block{
+        width: 22%;
+    }
+    /*event*/
+    .event__item--img{
+        display: none;
+    }
+
+    .event__item--title span{
+        width: 19vw;
+    }
+    /*form*/
+    .form__input{
+        width: 42vw;
+    }
+}
