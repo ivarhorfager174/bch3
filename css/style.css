@@ -157,11 +157,7 @@ img{
     background-image: url('../img/hero.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    height: 54vh;
-}
-
-.hero__content{
-    padding-top: 146px;
+    padding: 146px 0 146px 0;
 }
 
 .hero__title{
@@ -222,7 +218,7 @@ img{
     background-image: url('../img/gal-hero.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    height: 43vh;
+    padding: 80px 0;
 }
 
 .gallery__heading{
@@ -231,7 +227,6 @@ img{
     font-weight: 400;
     color: var(--white-color);
     margin: 0;
-    padding-top: 80px;
     margin-bottom: 20px;
 }
 

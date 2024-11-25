@@ -9,6 +9,10 @@
         column-gap: 34px;
     }
     /*hero*/
+    .hero__section{
+      padding: 50px 0;
+    }
+
     .hero__btn{
         padding: 11px 16px 14px 19px;
         font-size: 12px;

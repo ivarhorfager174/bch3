@@ -10,7 +10,7 @@
     }
     /*hero*/
     .hero__section{
-        height: 60vh;
+        padding: 101px 0;
     }
 
     .hero__desc{
@@ -23,12 +23,17 @@
     }
     /*gallery*/
     .gallery__section{
-        height: 65vh;
+        padding: 80px 0;
     }
 
     .gallery__pictures--block{
         width: 100%;
     }
+
+    .gallery__pictures--item{
+      width: 26vw;
+    }
+
     .gallery__item--img{
         width: 100%;
     }

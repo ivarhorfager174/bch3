@@ -10,14 +10,12 @@
     }
     /*hero*/
     .hero__section{
-        height: 75vh;
-    }
-    .hero__content{
-        padding-top: 100px;
+        padding: 112px 0;
     }
 
     .hero__desc{
         width: 37vw;
+        margin-bottom: 70px;
     }
     /*about*/
     .about__desc{
@@ -25,10 +23,7 @@
     }
     /*gallery*/
     .gallery__section{
-        height: 60vh;
-    }
-    .gallery__heading{
-        padding-top: 40px;
+        padding: 60px 0;
     }
 
     .gallery__pictures--img{
@@ -71,4 +66,4 @@
     .footer{
         padding: 10 0px;
     }
-}   
+}

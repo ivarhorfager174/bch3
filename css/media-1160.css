@@ -20,10 +20,6 @@
         column-gap: 120px;
     }
     /*hero*/
-    .hero__section{
-        height: 74vh;
-    }
-
     .hero__desc{
         width: 59vw;
     }
@@ -32,9 +28,6 @@
         width: 89vw;
     }
     /*gallery*/
-    .gallery__section{
-        height: 72vh;
-    }
     .gallery__content{
         display: flex;
         flex-direction: column;
@@ -104,5 +97,5 @@
         padding: 40px 0;
     }
 
-    
+
 }
