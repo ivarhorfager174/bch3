@@ -1,0 +1,77 @@
+@media(max-width: 1110px){
+    .container{
+        max-width: 1024px;
+        margin: 0 auto;
+        padding: 0 50px;
+    }
+
+    .header__nav--list{
+        column-gap: 100px;
+    }
+    /*hero*/
+    .hero__section{
+        padding: 101px 0;
+    }
+
+    .hero__desc{
+        width: 65vw;
+        margin-bottom: 133px;
+    }
+    /*about*/
+    .about__desc{
+        width: 90vw;
+    }
+    /*gallery*/
+    .gallery__section{
+        padding: 80px 0;
+    }
+
+    .gallery__pictures--block{
+        width: 100%;
+    }
+
+    .gallery__pictures--item{
+      width: 26vw;
+    }
+
+    .gallery__item--img{
+        width: 100%;
+    }
+    /*catalog*/
+    .catalog__desc{
+        width: 100%;
+    }
+    /*event*/
+    .event__list{
+        column-gap: 27px;
+    }
+
+    .event__item--info{
+        padding: 14px 34px 0 34px;
+    }
+
+    .event__item--title{
+        width: 23vw;
+    }
+
+    .event__item--title span{
+        width: 16vw;
+        align-items: flex-end;
+    }
+    /*project*/
+    .project__desc{
+        width: 100%;
+    }
+    /*form*/
+    .form__section{
+        padding: 43px 0;
+    }
+
+    .form__input{
+        width: 33vw;
+    }
+
+    .form__btn span{
+        display: none;
+    }
+}
