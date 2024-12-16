@@ -1,0 +1,19 @@
+@media(max-width:375px){
+    .container{
+        max-width: 375px;
+        padding: 0 15px;
+    }
+    /*header*/
+    .header__nav{
+        width: 375px;
+        height: 343px;
+    }
+    /*form*/
+    .form__input{
+        width: 87vw;
+    }
+    /*footer*/
+    .footer__logo--img{
+        width: 96px;
+    }
+}
